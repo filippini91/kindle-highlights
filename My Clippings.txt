@@ -4758,3 +4758,1108 @@ Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve
 
 Boldface the last item. The last item in the list should be the name of the current page, and making it bold gives it the prominence it deserves. And because it’s the page that you’re on, naturally it’s not a link.
 ==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1445-1445 | Added on Thursday, July 20, 2023 11:30:55 AM
+
+IDIOSYNCRATIC
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1482-1482 | Added on Thursday, July 20, 2023 12:33:06 PM
+
+People often test to decide which color drapes are best, only to learn that they forgot to put windows in the room.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1493-1493 | Added on Thursday, July 20, 2023 12:34:30 PM
+
+so often that I finally made a short animated video about just how hard it can
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1493-1493 | Added on Thursday, July 20, 2023 12:34:35 PM
+
+so often that I finally made a short animated video about just how hard it can be
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1555-1556 | Added on Thursday, July 20, 2023 12:42:57 PM
+
+I believe in the value of this kind of testing so much that I wrote an entire (short) book about how to do it. It’s called Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1564-1566 | Added on Thursday, July 20, 2023 12:43:57 PM
+
+If you’re doing Agile development, you’ll be doing testing more frequently, but the principles are still the same. For instance, you might be testing with two users every two weeks. Creating a fixed schedule and sticking to it is what’s important.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1583-1588 | Added on Thursday, July 20, 2023 12:46:56 PM
+
+Both of these are true but they just don’t matter, and here’s why: The purpose of this kind of testing isn’t to prove anything. Proving things requires quantitative testing, with a large sample size, a clearly defined and rigorously followed test protocol, and lots of data gathering and analysis. Do-it-yourself tests are a qualitative method whose purpose is to improve what you’re building by identifying and fixing usability problems. The process isn’t rigorous at all: You give them tasks to do, you observe, and you learn. The result is actionable insights, not proof.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1626-1627 | Added on Thursday, July 20, 2023 12:54:14 PM
+
+If you’re going to do your own recruiting, I recommend that you download the Nielsen Norman Group’s free 147-page report How to Recruit Participants for Usability Studies.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1692-1694 | Added on Thursday, July 20, 2023 1:03:05 PM
+
+You can download the script that I use for testing Web sites (or the slightly different version for testing apps) at rocketsurgerymadeeasy.com.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1917-1918 | Added on Thursday, July 20, 2023 1:29:19 PM
+
+Services like UserTesting.com provide people who will record themselves doing a usability test.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1936-1937 | Added on Thursday, July 20, 2023 1:59:20 PM
+
+But it wasn’t until the Great Leap Forward1 that they finally achieved consciousness.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1986-1988 | Added on Thursday, July 20, 2023 2:13:30 PM
+
+For example, I don’t use CBS News on my iPhone. I’ve learned over time that their stories are broken up into too-small (for me) chunks, and each one takes a long time to load. (If the pages loaded faster, I might not mind.)
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 1997-1998 | Added on Thursday, July 20, 2023 2:14:45 PM
+
+When I run into a problem like this, I know that it’s not there because the people who designed it didn’t think about it. In fact, I’m sure it was the subject of some intense debate that resulted in a compromise.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 182 | Location 2611-2612 | Added on Friday, August 4, 2023 8:09:06 PM
+
+Performance-based esteem augments an insufficient, internal sense of worth by the measuring of one’s accomplishments against those of others and coming out on top.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 183 | Location 2627-2628 | Added on Friday, August 4, 2023 8:10:59 PM
+
+Circumstances like disability or retirement can relieve some men of the burden of performance, allowing relational capacities and concerns to surface
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 183 | Location 2634-2635 | Added on Friday, August 4, 2023 8:12:01 PM
+
+And studies have shown a high correlation between athleticism in high school–and college-aged men and increased rates of “date rape,” violence, and the destruction of property.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 184 | Location 2645-2646 | Added on Friday, August 4, 2023 8:13:37 PM
+
+But attempting to secure connection through performance is a high-risk endeavor
+==========
+Outlive (Attia MD, Peter )
+- Your Highlight on page 12 | Location 516-519 | Added on Saturday, August 19, 2023 10:23:42 PM
+
+But our progress has been less than stellar, with the possible exception of cardiovascular disease, where we have cut mortality rates by two-thirds in the industrialized world2 in about sixty years (although there’s more yet to do, as we will see).
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 192 | Location 2760-2761 | Added on Sunday, August 20, 2023 5:21:19 PM
+
+Unlike traditional mythic images of the lone, utterly self-sufficient hero, real boys and men need social connection just as much as do girls and women.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 194 | Location 2792-2792 | Added on Sunday, August 20, 2023 5:24:32 PM
+
+forlorn
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 196 | Location 2814-2814 | Added on Sunday, August 20, 2023 5:27:05 PM
+
+inchoate
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 198 | Location 2849-2850 | Added on Sunday, August 20, 2023 5:31:20 PM
+
+Writers like Knauth or William Styron vividly describe the “pure psychical anguish” that patients like Billy endure.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 199 | Location 2862-2863 | Added on Sunday, August 20, 2023 5:33:29 PM
+
+Overt depression is violence endured. Covert depression is violence deflected
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 199 | Location 2869-2869 | Added on Sunday, August 20, 2023 5:34:19 PM
+
+placate
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 199 | Location 2871-2871 | Added on Sunday, August 20, 2023 5:34:35 PM
+
+frenetic.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 201 | Location 2906-2906 | Added on Sunday, August 20, 2023 5:37:46 PM
+
+sullen,
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 201 | Location 2906-2906 | Added on Sunday, August 20, 2023 5:37:55 PM
+
+pugnacious
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 202 | Location 2912-2912 | Added on Sunday, August 20, 2023 5:38:26 PM
+
+belligerently,
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 202 | Location 2914-2914 | Added on Sunday, August 20, 2023 5:38:41 PM
+
+supercilious
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 203 | Location 2924-2924 | Added on Sunday, August 20, 2023 5:39:50 PM
+
+veneer
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 203 | Location 2933-2934 | Added on Sunday, August 20, 2023 5:40:40 PM
+
+“You’re not breaking down. You’re crying. Breaking down happens to people who don’t cry.”
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 205 | Location 2955-2957 | Added on Sunday, August 20, 2023 5:43:38 PM
+
+When a child is traumatized—by a parent who is either negligent or out of control—his first and most profound response will be to take responsibility for the failing parent.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 205 | Location 2963-2964 | Added on Sunday, August 20, 2023 5:44:46 PM
+
+As Herman suggests, in extreme cases, the need to preserve the attachment to an abusing parent may even supersede self-preservation.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 205 | Location 2968-2968 | Added on Sunday, August 20, 2023 5:45:14 PM
+
+capriciously,
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 206 | Location 2984-2984 | Added on Sunday, August 20, 2023 5:47:39 PM
+
+repudiation
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 207 | Location 2990-2991 | Added on Sunday, August 20, 2023 5:48:48 PM
+
+As a therapist, whenever I hear a depressed man tell me that he feels sorry for one or both of his parents, I know I am in the presence of carried feelings.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 207 | Location 2994-2994 | Added on Sunday, August 20, 2023 5:49:20 PM
+
+“You, too, can behave as I do when you become a man.”
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 207 | Location 2995-2995 | Added on Sunday, August 20, 2023 5:49:32 PM
+
+abhorrent,
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 207 | Location 2994-2995 | Added on Sunday, August 20, 2023 5:49:36 PM
+
+“You, too, can behave as I do when you become a man.” In this tragic moment, the very forces that betray the boy, forces he most often finds abhorrent, come to live inside him.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 209 | Location 3030-3031 | Added on Sunday, August 20, 2023 5:59:40 PM
+
+pout,”
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 211 | Location 3065-3065 | Added on Sunday, August 20, 2023 6:02:55 PM
+
+clutches.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 212 | Location 3071-3071 | Added on Sunday, August 20, 2023 6:03:33 PM
+
+ditty,
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 212 | Location 3077-3079 | Added on Sunday, August 20, 2023 6:04:29 PM
+
+If empathic reversal—the process of taking on the offender’s perspective and losing empathy for one’s own—is the process by which trauma becomes depression, reversing that reversal—reestablishing empathy for the vulnerable child within and creating distance, a healthy judgment toward the offender—lies at the core of recovery.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 225 | Location 3272-3273 | Added on Sunday, August 20, 2023 9:35:19 PM
+
+Depression is an obsessive disorder. A depressed person is endlessly caught in the chains of his rehearsed inadequacies.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 229 | Location 3313-3315 | Added on Sunday, August 20, 2023 9:47:37 PM
+
+Through the mechanism of carried shame and carried feelings, the unresolved pain of previous generations operates in families like an emotional debt.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 229 | Location 3318-3318 | Added on Sunday, August 20, 2023 9:48:38 PM
+
+The “difficult repentance” such a man undertakes protects those who follow him.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 229 | Location 3323-3325 | Added on Sunday, August 20, 2023 9:49:08 PM
+
+Conversely, when a man transforms the internalized discourse of violence, he does more than relieve his own depression. He breaks the chain, interrupting the path of depression’s transmission to the next generation. Recovery transforms legacies.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 230 | Location 3326-3327 | Added on Sunday, August 20, 2023 9:49:34 PM
+
+“Do the work,” I will often say to such a man. “Face this pain, now, or pass it on to your
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 230 | Location 3326-3327 | Added on Sunday, August 20, 2023 9:49:40 PM
+
+“Do the work,” I will often say to such a man. “Face this pain, now, or pass it on to your children, just as it was passed on to you.”
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 233 | Location 3380-3382 | Added on Sunday, August 20, 2023 10:04:45 PM
+
+When a man reconsiders performance-based esteem, when he reaches into his own heart to unearth and form a relationship with the emotional parts of himself, when he takes on responsibilities for psychological self-care as well as the psychological care of others, he breaks with the terms of traditional masculinity.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 234 | Location 3389-3392 | Added on Sunday, August 20, 2023 10:06:16 PM
+
+Therapists working with combat veterans have reported that when a man is subjected to trauma he sustains a double injury. The trauma itself is often compounded by the soldier’s sense of having been “emasculated.” To be a victim, overwhelmed by pain, is synonymous with being unmanned. The therapist must deal with both the injury and then with the further complication of the man’s “crisis in masculinity.”
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 234 | Location 3398-3399 | Added on Sunday, August 20, 2023 10:07:19 PM
+
+To his surprise, Lisak found that the group with abuse histories proved to be significantly less rigidly masculine than the control group of nonabused men—slightly less “macho,” less traditional, less denying of “feminine” traits.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 236 | Location 3425-3425 | Added on Sunday, August 20, 2023 10:10:39 PM
+
+The harsh child also takes in the general force of contempt for the “feminine” that is rampant in our culture at large.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 236 | Location 3430-3431 | Added on Sunday, August 20, 2023 10:11:40 PM
+
+Too often, what fathers bequeath to their children is their own unacknowledged pain, and, in instances of violence, an entitlement to inflict it on others.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 236 | Location 3430-3433 | Added on Sunday, August 20, 2023 10:11:58 PM
+
+Too often, what fathers bequeath to their children is their own unacknowledged pain, and, in instances of violence, an entitlement to inflict it on others. The frightening reality that must be faced is that when a boy is emotionally or physically abused by his father, one avenue for obtaining closeness with him, for absolving the father and uniting with him, is to become him.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 238 | Location 3457-3458 | Added on Sunday, August 20, 2023 10:15:10 PM
+
+On the highway, Tracy became the omnipotent father, and his victims became the abused child he had learned to despise.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 239 | Location 3477-3477 | Added on Sunday, August 20, 2023 10:17:27 PM
+
+succinctly
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 241 | Location 3505-3505 | Added on Sunday, August 20, 2023 10:20:53 PM
+
+“To Carthage then I came, burning, burning, burning, burning,” Henry quotes T. S. Eliot.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 243 | Location 3529-3529 | Added on Sunday, August 20, 2023 10:23:48 PM
+
+aptitude
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 244 | Location 3545-3545 | Added on Sunday, August 20, 2023 10:25:37 PM
+
+apocryphal
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 244 | Location 3556-3556 | Added on Sunday, August 20, 2023 10:27:06 PM
+
+deprecating
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 246 | Location 3582-3583 | Added on Sunday, August 20, 2023 10:29:57 PM
+
+Henry reciprocates by introducing me to the work of the brilliant photographer Diane Arbus, who succumbed to depression early in her career and took her own life.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 248 | Location 3613-3614 | Added on Sunday, August 20, 2023 10:33:15 PM
+
+Many sons burdened with carried depression need to plunge into the heart of their own pain in order to find and confront not just their own, but their father’s unacknowledged depression.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 248 | Location 3617-3618 | Added on Sunday, August 20, 2023 10:33:52 PM
+
+In the film Field of Dreams, a modern version of this common myth, Kevin Costner moves heaven and earth to encounter his father’s lost vitality.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 250 | Location 3648-3649 | Added on Sunday, August 20, 2023 10:37:42 PM
+
+While on the surface we met in direct antagonism, underneath, like an undertow, I felt the pull of his covert depression.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 270 | Location 3938-3940 | Added on Wednesday, August 23, 2023 4:14:16 PM
+
+When a man relies on the defenses employed in covert depression, he places himself in the hazardous position of trying to ameliorate the pain of alienation in ways that leave him more alienated than he was at the start. For some, the covert defenses take on a life of their own, intensifying in a downward spiral.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 270 | Location 3948-3948 | Added on Wednesday, August 23, 2023 4:15:35 PM
+
+laudable,
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 271 | Location 3969-3970 | Added on Wednesday, August 23, 2023 4:19:50 PM
+
+These outwardly accomplished men, running from inward emptiness, often reap ever greater rewards from the culture the more out of touch they become. The more they acquire, the bigger their deals, the more society reinforces their performance-based esteem.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 274 | Location 4003-4003 | Added on Wednesday, August 23, 2023 4:24:05 PM
+
+infatuation.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 274 | Location 4013-4014 | Added on Wednesday, August 23, 2023 4:25:50 PM
+
+Russell Whiteston is not a bad man. In many ways he is a kind, decent man. He is just no one I would recommend getting close to.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 274 | Location 4015-4016 | Added on Wednesday, August 23, 2023 4:26:04 PM
+
+The degree to which a man relies upon addictive defenses to ward off depression determines the degree of his abusiveness or irresponsibility toward others.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 275 | Location 4024-4025 | Added on Wednesday, August 23, 2023 4:27:20 PM
+
+prowess.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 275 | Location 4028-4029 | Added on Wednesday, August 23, 2023 4:27:59 PM
+
+What the defenses in covert depression medicate is the pain of the man’s poor relationship to himself.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 275 | Location 4032-4034 | Added on Wednesday, August 23, 2023 4:28:47 PM
+
+Khantzian’s research on both alcoholics and drug abusers led him to focus on four cardinal areas of dysregulation: difficulty in maintaining healthy self-esteem; difficulty in regulating one’s feelings; difficulty in exercising self-care; and difficulty in sustaining connection to others.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 276 | Location 4036-4037 | Added on Wednesday, August 23, 2023 4:32:10 PM
+
+Traditional masculinization teaches boys to replace inherent self-worth with performance-based esteem.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 278 | Location 4076-4076 | Added on Wednesday, August 23, 2023 4:37:31 PM
+
+facetiously,
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 278 | Location 4077-4078 | Added on Wednesday, August 23, 2023 4:37:50 PM
+
+Pia Mellody has devised a five-point grid that I find practical and comprehensive. It consists of five self functions: self-esteem, self-protection, self-knowledge, self-care, and self-moderation.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 279 | Location 4090-4091 | Added on Friday, August 25, 2023 4:01:59 PM
+
+Healing from depression unpeels these three layers in three phases: sobriety, the practice of relational maturity, and trauma release.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 284 | Location 4166-4167 | Added on Friday, August 25, 2023 4:42:13 PM
+
+implacably
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 286 | Location 4195-4196 | Added on Friday, August 25, 2023 4:49:32 PM
+
+Feelings are not endless, but our numbing attempts to avoid them can last a lifetime.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 286 | Location 4198-4198 | Added on Friday, August 25, 2023 4:53:02 PM
+
+repudiating
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 287 | Location 4208-4214 | Added on Friday, August 25, 2023 4:58:11 PM
+
+Bessel van der Kolk summarizes the current literature on trauma memories: Research has shown that under ordinary conditions many traumatized people, including rape victims, battered women, and abused children have fairly good psychosocial adjustment. However, they do not respond to stress in the way that other people do. Under pressure they may feel or act as if they were being traumatized all over again. Thus, high states of arousal seem selectively to promote retrieval of traumatic memories, sensory information, or behaviors associated with previous traumatic experiences. The tendency of traumatized organisms to revert to irrelevant emergency behaviors in response to minor stress has been well documented in animals as well.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 287 | Location 4216-4217 | Added on Friday, August 25, 2023 4:59:00 PM
+
+Current research indicates that traumatic experience may be stored in a different part of the brain from the higher cortical systems, which make sense of them.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 287 | Location 4216-4219 | Added on Friday, August 25, 2023 4:59:35 PM
+
+Current research indicates that traumatic experience may be stored in a different part of the brain from the higher cortical systems, which make sense of them. Several researchers have distinguished the two different circuits of memory, calling one the explicit, the other the implicit memory system.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 288 | Location 4234-4235 | Added on Friday, August 25, 2023 5:02:10 PM
+
+Researchers like Bessel van der Kolk, Robert Golden, and H. M. Van Praag have called for a questioning of psychiatry’s fundamental idea of discrete disease entities.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 288 | Location 4237-4239 | Added on Friday, August 25, 2023 5:02:45 PM
+
+As for recovery, the Prozac family seems to approximate chemically some of what healing work accomplishes emotionally and cognitively. It helps quiet the implicit memory system and strengthen the explicit memory system, or, said differently, it helps decrease the intensity of the wounded internal children and bolster the skills of the functional adult.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 289 | Location 4244-4246 | Added on Friday, August 25, 2023 5:05:03 PM
+
+Several influences have combined to focus our attention on the actual, rather than the imagined, process of trauma and recovery. The feminist movement exposed the reality of domestic violence toward women, and, then, by extension, toward children, correcting—close to one hundred years later—Freud’s fateful mistake.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 292 | Location 4282-4283 | Added on Sunday, August 27, 2023 1:53:01 PM
+
+The price of his delusion is death. Unable to eat or sleep, like a severe addict in the final stages of obsession he wastes.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 292 | Location 4286-4286 | Added on Sunday, August 27, 2023 1:53:33 PM
+
+men and their spouses represent not an aberration
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 292 | Location 4286-4286 | Added on Sunday, August 27, 2023 1:53:43 PM
+
+aberration
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 296 | Location 4347-4347 | Added on Sunday, August 27, 2023 2:03:04 PM
+
+baleful
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 298 | Location 4386-4386 | Added on Sunday, August 27, 2023 2:10:14 PM
+
+vehemently
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 302 | Location 4449-4449 | Added on Sunday, August 27, 2023 2:19:08 PM
+
+As men took on the role of wage earner, women and children became ever more dependent on the man’s salary.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 303 | Location 4467-4467 | Added on Sunday, August 27, 2023 2:25:03 PM
+
+cajole
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 303 | Location 4468-4468 | Added on Sunday, August 27, 2023 2:25:31 PM
+
+proclivity
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 304 | Location 4481-4481 | Added on Sunday, August 27, 2023 2:28:02 PM
+
+valor.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 307 | Location 4524-4525 | Added on Sunday, August 27, 2023 2:50:54 PM
+
+This is emotional pornography—the idea that a good woman is one who is happy to take care of—and leave alone—her breadwinning man.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 307 | Location 4531-4531 | Added on Sunday, August 27, 2023 2:52:01 PM
+
+vacillates
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 310 | Location 4568-4569 | Added on Monday, August 28, 2023 9:15:05 PM
+
+There is, in humans, a force whose job it is to ameliorate raw biological tendencies. We call it civilization.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 312 | Location 4604-4604 | Added on Monday, August 28, 2023 9:21:04 PM
+
+Some women seem willing to keep their covertly depressed men strong by becoming less functional than their partners.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 313 | Location 4622-4624 | Added on Monday, August 28, 2023 9:25:38 PM
+
+If Jessie Bernard and dozens of sociologists who have followed her are correct, than a wife like Judy is an extreme version of the many women who are willing to become symptomatic themselves while their husband’s symptoms decrease. These women carry the “dysfunction” of vulnerability itself—any kind of emotional vulnerability.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 315 | Location 4656-4656 | Added on Monday, August 28, 2023 9:29:58 PM
+
+rancor
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 318 | Location 4697-4697 | Added on Monday, August 28, 2023 9:45:18 PM
+
+subjugation.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 319 | Location 4712-4713 | Added on Monday, August 28, 2023 9:47:57 PM
+
+These rudimentary skills of communication, direct assertion, and accountability, are easily learned, taught by therapists all over the country. The good news is that once a man
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 319 | Location 4712-4713 | Added on Monday, August 28, 2023 9:48:05 PM
+
+These rudimentary skills of communication, direct assertion, and accountability, are easily learned, taught by therapists all over the country.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 322 | Location 4744-4746 | Added on Monday, August 28, 2023 9:53:49 PM
+
+Beyond a certain point in a man’s life, if he is to remain truly vital, he needs to be actively engaged in devotion to something other than his own success and happiness. The word discipline derives from the same root as the word disciple. Discipline means “to place oneself in the service of.”
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 322 | Location 4744-4747 | Added on Monday, August 28, 2023 9:53:59 PM
+
+Beyond a certain point in a man’s life, if he is to remain truly vital, he needs to be actively engaged in devotion to something other than his own success and happiness. The word discipline derives from the same root as the word disciple. Discipline means “to place oneself in the service of.” Discipline is a form of devotion. A grown man with nothing to devote himself to is a man who is sick at heart.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 323 | Location 4758-4760 | Added on Monday, August 28, 2023 9:55:35 PM
+
+Similarly, when a man “gives in” to his wife’s desire to stay at home and watch a video on a particular evening rather than to go out to the movies, he does so not because she has won and he has lost, but because he is caretaking a relationship that it is in his best interests to preserve.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 323 | Location 4764-4767 | Added on Monday, August 28, 2023 9:56:36 PM
+
+Men who were judged as having warm, nurturant relationships with their children were shown to be healthier, less depressed, and, surprisingly, more successful in their careers. In popular films, there is a spate of lost or damaged heroes who are redeemed by their relationships to real or surrogate sons. This may have less to do with boys’ needs for fathers than with the men’s need to be fathers, to live for something beyond performance, kudos, and acquisition
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 323 | Location 4771-4771 | Added on Monday, August 28, 2023 9:57:09 PM
+
+atavistic. It no longer fits our complex, interdependent
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 323 | Location 4771-4771 | Added on Monday, August 28, 2023 9:57:22 PM
+
+atavistic.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 324 | Location 4777-4777 | Added on Monday, August 28, 2023 9:58:15 PM
+
+A culture of limitless resources and limitless conquest had reached an undeniable boundary.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 325 | Location 4801-4801 | Added on Monday, August 28, 2023 10:01:57 PM
+
+hubris,
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 332 | Location 4894-4896 | Added on Monday, August 28, 2023 10:13:59 PM
+
+About a year earlier, I had worked up the courage to send Dad a copy of Sam Osherson’s book Finding Our Fathers. “This is similar to the kinds of work I do with guys,” I had explained.
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 338 | Location 4977-4978 | Added on Monday, August 28, 2023 10:22:10 PM
+
+The blackness inside me is mostly gone now. I feel a touch of it here and there. A bad day now and again, a tickle in the back of my mind, like a threat. But, as I go about my life, I am essentially free of
+==========
+I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression (Real, Terrence)
+- Your Highlight on page 338 | Location 4977-4978 | Added on Monday, August 28, 2023 10:22:18 PM
+
+The blackness inside me is mostly gone now. I feel a touch of it here and there. A bad day now and again, a tickle in the back of my mind, like a threat. But, as I go about my life, I am essentially free of it.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2117-2119 | Added on Tuesday, August 29, 2023 9:44:11 PM
+
+A person of average (or even below average) ability and experience can figure out how to use the thing [i.e., it’s learnable] to accomplish something [effective] without it being more trouble than it’s worth [efficient].
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2138-2139 | Added on Tuesday, August 29, 2023 9:46:29 PM
+
+Delight is sort of like the extra credit assignment of user experience design.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2222-2222 | Added on Wednesday, August 30, 2023 7:07:43 AM
+
+Attach the camera to the device so the
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2336-2337 | Added on Wednesday, August 30, 2023 7:17:40 AM
+
+Hiding information that I want. The most common things to hide are customer support phone numbers, shipping rates, and prices.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2438-2439 | Added on Wednesday, August 30, 2023 7:29:37 AM
+
+But since this always seems to be the only example cited, it feels a little like arguing that the space program was worthwhile because it gave us Tang.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2446-2449 | Added on Wednesday, August 30, 2023 7:30:08 AM
+
+It’s the right thing to do. And not just the right thing; it’s profoundly the right thing to do, because the one argument for accessibility that doesn’t get made nearly often enough is how extraordinarily better it makes some people’s lives. Personally, I don’t think anyone should need more than this one example: Blind people with access to a computer can now read almost any newspaper or magazine on their own. Imagine that.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2541-2543 | Added on Wednesday, August 30, 2023 10:55:23 AM
+
+Use <h1> for the page title or main content heading, <h2> for the major section headings, <h3> for subheadings, and so on, and then use CSS to redefine the visual appearance of each level.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2595-2596 | Added on Wednesday, August 30, 2023 11:00:13 AM
+
+There’s an excellent book about it: Cost-justifying Usability: An Update for the Internet Age, edited by Randolph Bias and Deborah Mayhew.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 74-74 | Added on Tuesday, September 5, 2023 10:35:15 AM
+
+Tragically, one person dies in a traffic accident every hour in the United States due to a fatigue-related error.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 115-116 | Added on Tuesday, September 5, 2023 10:40:27 AM
+
+Downstairs in the body, sleep restocks the armory of our immune system, helping fight malignancy, preventing infection, and warding off all manner of sickness
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 123-125 | Added on Tuesday, September 5, 2023 10:46:00 AM
+
+Based on a rich, new scientific understanding of sleep, we no longer have to ask what sleep is good for. Instead, we are now forced to wonder whether there are any biological functions that do not benefit by a good night’s sleep. So far, the results of thousands of studies insist that no, there aren’t.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 163-163 | Added on Tuesday, September 5, 2023 10:53:22 AM
+
+beguiling
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 209-212 | Added on Tuesday, September 5, 2023 11:00:21 AM
+
+It is no coincidence that the likelihood of breaking an Olympic record has been clearly tied to time of day, being maximal at the natural peak of the human circadian rhythm in the early afternoon. Even the timing of births and deaths demonstrates circadian rhythmicity due to the marked swings in key life-dependent metabolic, cardiovascular, temperature, and hormonal processes that this pacemaker controls.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 258-260 | Added on Tuesday, September 5, 2023 11:05:39 AM
+
+In the seventy-plus years since Kleitman and Richardson’s seminal experiment, we have now determined that the average duration of a human adult’s endogenous circadian clock runs around twenty-four hours and fifteen minutes in length.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 274-275 | Added on Tuesday, September 5, 2023 11:07:41 AM
+
+Any signal that the brain uses for the purpose of clock resetting is termed a zeitgeber, from the German “time giver” or “synchronizer.”
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 304-304 | Added on Tuesday, September 5, 2023 12:44:18 PM
+
+trough
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 311-314 | Added on Tuesday, September 5, 2023 12:45:53 PM
+
+They are unable to function well at this time, one cause of which is that, despite being “awake,” their brain remains in a more sleep-like state throughout the early morning. This is especially true of a region called the prefrontal cortex, which sits above the eyes, and can be thought of as the head office of the brain.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 319-319 | Added on Tuesday, September 5, 2023 12:47:28 PM
+
+wont
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 320-320 | Added on Tuesday, September 5, 2023 12:47:56 PM
+
+slovenly,
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 321-322 | Added on Tuesday, September 5, 2023 12:48:09 PM
+
+However, night owls are not owls by choice. They are bound to a delayed schedule by unavoidable DNA hardwiring. It is not their conscious fault, but rather their genetic fate.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 327-328 | Added on Tuesday, September 5, 2023 12:49:07 PM
+
+Greater ill health caused by a lack of sleep therefore befalls owls, including higher rates of depression, anxiety, diabetes, cancer, heart attack, and stroke.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 337-339 | Added on Tuesday, September 5, 2023 12:51:17 PM
+
+Mother Nature would never pass on a biological trait—here, the useful variability in when individuals within a collective tribe go to sleep and wake up—that could enhance the survival safety and thus fitness of a species by this amount. And so she hasn’t.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 351-351 | Added on Tuesday, September 5, 2023 12:53:24 PM
+
+corrals
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 357-358 | Added on Tuesday, September 5, 2023 12:56:57 PM
+
+Scientific evaluations of over-the-counter brands have found melatonin concentrations that range from 83 percent less than that claimed on the label, to 478 percent more than that stated.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 376-376 | Added on Tuesday, September 5, 2023 1:31:27 PM
+
+swaddled
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 388-389 | Added on Tuesday, September 5, 2023 1:34:44 PM
+
+You may have noticed that it feels harder to acclimate to a new time zone when traveling eastward than when flying westward. There are two reasons for this
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 397-398 | Added on Tuesday, September 5, 2023 1:35:59 PM
+
+And there are consequences. Scientists have studied airplane cabin crews who frequently fly on long-haul routes and have little chance to recover.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 545-545 | Added on Wednesday, September 6, 2023 7:11:42 AM
+
+arrears,
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 558-560 | Added on Wednesday, September 6, 2023 7:13:23 AM
+
+In the event it helps, I have provided a link to a questionnaire that has been developed by sleep researchers that will allow you to determine your degree of sleep fulfillment.XI Called SATED, it is easy to complete, and contains only five simple questions.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 649-651 | Added on Wednesday, September 6, 2023 7:25:27 AM
+
+It was using this collection of measures that arguably the most important discovery in all of sleep research was made in 1952 at the University of Chicago by Eugene Aserinsky (then a graduate student) and Professor Nathaniel Kleitman, famed for the Mammoth Cave experiment discussed in chapter 2.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 655-655 | Added on Wednesday, September 6, 2023 7:26:04 AM
+
+quiescent
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 674-675 | Added on Wednesday, September 6, 2023 7:29:14 AM
+
+The technical name for this graphic is a hypnogram (a sleep graph).
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 978-979 | Added on Wednesday, September 6, 2023 4:07:16 PM
+
+When a theme repeats in evolution, and independently across unrelated lineages, it often signals a fundamental need.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1028-1029 | Added on Wednesday, September 6, 2023 4:14:49 PM
+
+The flock will first line up in a row. With the exception of the birds at each end of the line, the rest of the group will allow both halves of the brain to indulge in sleep.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1036-1039 | Added on Wednesday, September 6, 2023 4:15:59 PM
+
+But if you bring that person into a sleep laboratory, or take them to a hotel—both of which are unfamiliar sleep environments—one half of the brain sleeps a little lighter than the other, as if it’s standing guard with just a tad more vigilance due to the potentially less safe context that the conscious brain has registered while awake.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1043-1044 | Added on Thursday, September 7, 2023 7:21:07 PM
+
+I should note that REM sleep is strangely immune to being split across sides of the brain, no matter who you are.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1056-1057 | Added on Thursday, September 7, 2023 7:22:44 PM
+
+is so dangerous, in fact, that neither mother nor calf appear to sleep while in transit.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1056-1057 | Added on Thursday, September 7, 2023 7:22:50 PM
+
+It is so dangerous, in fact, that neither mother nor calf appear to sleep while in transit.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1059-1059 | Added on Thursday, September 7, 2023 7:23:08 PM
+
+egregious
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1069-1069 | Added on Thursday, September 7, 2023 7:24:23 PM
+
+maelstrom
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1092-1092 | Added on Thursday, September 7, 2023 7:27:33 PM
+
+The practice of biphasic sleep is not cultural in origin, however. It is deeply biological.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2626-2627 | Added on Monday, September 11, 2023 4:49:40 PM
+
+For instance, you might test something that’s been causing a lot of support calls and then show how much the calls on that issue decreased after you fixed the problem.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2643-2644 | Added on Monday, September 11, 2023 4:51:28 PM
+
+Your primary role should be to share what you know, not to tell people how things should be done.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2645-2647 | Added on Monday, September 11, 2023 4:51:44 PM
+
+First there’s Tomer Sharon’s It’s Our Research: Getting Stakeholder Buy-In for User Experience Research Projects. Tomer is a UX Researcher at Google, and I’ve never heard him say anything that wasn’t true, pithy, and actionable.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2649-2652 | Added on Monday, September 11, 2023 4:52:14 PM
+
+Leah Buley’s The User Experience Team of One: A Research and Design Survival Guide is written specifically for people who are “the only person in your company practicing (or aspiring to practice) user centered design” or who “regularly work on a team where you are the only UX person.” Chapters 3 (Building Support for Your Work) and 4 (Growing Yourself and Your Career) are full of good advice and useful resources.
+==========
+Don't Make Me Think, Revisited_ A Common Sense Approach to Web Usability - Steve Krug (Steve Krug)
+- Your Highlight on Location 2666-2667 | Added on Monday, September 11, 2023 4:55:02 PM
+
+Or read any of Susan Weinschenk’s books about the useful lessons that neuropsychology research can teach us about human motivation and decision making.
+==========
+Why We Sleep_ Unlocking the Power of Sleep and Dreams by Matthew Walker (Matthew Walker)
+- Your Highlight on Location 1124-1126 | Added on Monday, September 11, 2023 5:03:47 PM
+
+However, those that abandoned regular siestas went on to suffer a 37 percent increased risk of death from heart disease across the six-year period, relative to those who maintained regular daytime naps. The effect was especially strong in workingmen, where the ensuing mortality risk of not napping increased by well over 60 percent.
+==========
+Why nations fail- the origins of power, prosperity and poverty ( PDFDrive ) (Daron Acemoglu)
+- Your Highlight on Location 968-968 | Added on Saturday, September 23, 2023 9:23:44 PM
+
+profligate
+==========
+Why nations fail- the origins of power, prosperity and poverty ( PDFDrive ) (Daron Acemoglu)
+- Your Highlight on Location 968-968 | Added on Saturday, September 23, 2023 9:23:54 PM
+
+impecunious,
+==========
+Why nations fail- the origins of power, prosperity and poverty ( PDFDrive ) (Daron Acemoglu)
+- Your Highlight on Location 969-969 | Added on Saturday, September 23, 2023 9:24:11 PM
+
+inimical
+==========
+Why nations fail- the origins of power, prosperity and poverty ( PDFDrive ) (Daron Acemoglu)
+- Your Highlight on Location 1028-1028 | Added on Saturday, September 23, 2023 9:32:39 PM
+
+spurious.
+==========
+Why nations fail- the origins of power, prosperity and poverty ( PDFDrive ) (Daron Acemoglu)
+- Your Highlight on Location 1191-1191 | Added on Sunday, September 24, 2023 12:38:25 PM
+
+inimical
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 213-214 | Added on Friday, September 29, 2023 12:02:43 PM
+
+The principles of effective design also had to be brought up to date. Human-centered design (HCD) has emerged since the first edition, partially inspired by that book.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 216-217 | Added on Friday, September 29, 2023 12:03:10 PM
+
+Emotion is so important that I wrote an entire book, Emotional Design, about the role it plays in design.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 283-284 | Added on Friday, September 29, 2023 12:13:24 PM
+
+Here is where I introduce Norman’s Law: The day the product team is announced, it is behind schedule and over its budget.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 291-293 | Added on Saturday, September 30, 2023 12:06:45 PM
+
+Everyone wants radical innovation, but the truth is, most radical innovations fail, and even when they do succeed, it can take multiple decades before they are accepted. Radical innovation, therefore, is relatively
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 291-293 | Added on Saturday, September 30, 2023 12:06:53 PM
+
+Everyone wants radical innovation, but the truth is, most radical innovations fail, and even when they do succeed, it can take multiple decades before they are accepted. Radical innovation, therefore, is relatively rare: incremental innovation is common.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 291-294 | Added on Saturday, September 30, 2023 12:07:06 PM
+
+Everyone wants radical innovation, but the truth is, most radical innovations fail, and even when they do succeed, it can take multiple decades before they are accepted. Radical innovation, therefore, is relatively rare: incremental innovation is common. The techniques of human-centered design are appropriate to incremental innovation: they cannot lead to radical innovations.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 343-343 | Added on Saturday, September 30, 2023 12:11:59 PM
+
+Two of the most important characteristics of good design are discoverability and understanding.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 370-372 | Added on Saturday, September 30, 2023 12:21:06 PM
+
+None of the fields is well defined, but the focus of the efforts does vary, with industrial designers emphasizing form and material, interactive designers emphasizing understandability and usability, and experience designers emphasizing the emotional impact.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 387-388 | Added on Saturday, September 30, 2023 12:23:03 PM
+
+People are imaginative and creative, filled with common sense; that is, a lot of valuable knowledge built up over years of experience.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 394-395 | Added on Saturday, September 30, 2023 12:23:54 PM
+
+It is not our duty to understand the arbitrary, meaningless dictates of machines.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 400-402 | Added on Saturday, September 30, 2023 12:24:33 PM
+
+Engineers, moreover, make the mistake of thinking that logical explanation is sufficient: “If only people would read the instructions,” they say, “everything would be all right.” Engineers are trained to think logically.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 419-420 | Added on Saturday, September 30, 2023 12:30:01 PM
+
+“You are being too logical,” I say. “You are designing for people the way you would like them to be, not for the way they really are.”
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 473-474 | Added on Saturday, September 30, 2023 12:39:50 PM
+
+When there is understanding it can lead to a feeling of control, of mastery, and of satisfaction or even pride—all strong positive emotions.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 476-478 | Added on Saturday, September 30, 2023 12:40:31 PM
+
+Discoverability results from appropriate application of five fundamental psychological concepts covered in the next few chapters: affordances, signifiers, constraints, mappings, and feedback.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 476-479 | Added on Saturday, September 30, 2023 12:40:42 PM
+
+Discoverability results from appropriate application of five fundamental psychological concepts covered in the next few chapters: affordances, signifiers, constraints, mappings, and feedback. But there is a sixth principle, perhaps most important of all: the conceptual model of the system.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 489-489 | Added on Saturday, September 30, 2023 12:42:49 PM
+
+A chair affords (“is for”) support and, therefore, affords sitting.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 495-497 | Added on Saturday, September 30, 2023 12:44:06 PM
+
+Glass affords transparency. At the same time, its physical structure blocks the passage of most physical objects. As a result, glass affords seeing through and support, but not the passage of air or most physical objects (atomic particles can pass through glass).
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 533-535 | Added on Saturday, September 30, 2023 12:51:34 PM
+
+“No,” I said, “that is not an affordance. That is a way of communicating where the touch should be. You are communicating where to do the touching: the affordance of touching exists on the entire screen: you are trying to signify where the touch should take place. That’s not the same thing as saying what action is possible.”
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 545-546 | Added on Saturday, September 30, 2023 12:52:57 PM
+
+For me, the term signifier refers to any mark or sound, any perceivable indicator that communicates appropriate behavior to a person.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 664-665 | Added on Saturday, September 30, 2023 1:21:13 PM
+
+But flat surfaces afford support, and as soon as one person discovers it can be used to dispose of empty drink containers, the discarded container becomes a signifier, telling others that it is permissible to discard their items there
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 716-717 | Added on Saturday, September 30, 2023 1:25:08 PM
+
+Mapping is a technical term, borrowed from mathematics, meaning the relationship between the elements of two sets of things
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 742-744 | Added on Saturday, September 30, 2023 1:28:30 PM
+
+Some natural mappings are cultural or biological, as in the universal standard that moving the hand up signifies more, moving it down signifies less, which is why it is appropriate to use vertical position to represent intensity or amount.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 746-746 | Added on Saturday, September 30, 2023 1:28:52 PM
+
+Controls should be close to the item being controlled.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 811-812 | Added on Saturday, September 30, 2023 2:00:08 PM
+
+Simplified models are valuable only as long as the assumptions that support them hold true.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1129-1130 | Added on Sunday, October 1, 2023 5:19:15 PM
+
+Harvard Business School marketing professor Theodore Levitt once pointed out, “People don’t want to buy a quarter-inch drill. They want a quarter-inch hole!”
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1301-1304 | Added on Sunday, October 1, 2023 6:39:19 PM
+
+The emotional system is especially responsive to changes in states—so an upward change is interpreted positively even if it is only from a very bad state to a not-so-bad state, just as a change is interpreted negatively even if it is from an extremely positive state to one only somewhat less positive.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1324-1324 | Added on Tuesday, October 3, 2023 12:26:32 PM
+
+Vacations are often remembered with fondness, despite the evidence from diaries of repeated discomfort and anguish.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1330-1331 | Added on Tuesday, October 3, 2023 12:27:50 PM
+
+Do we run and flee because some event happened that made us afraid? Or are we afraid because our conscious, reflective mind notices that we are running?
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1375-1376 | Added on Tuesday, October 3, 2023 12:40:44 PM
+
+People are innately disposed to look for causes of events, to form explanations and stories.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1375-1377 | Added on Tuesday, October 3, 2023 12:40:53 PM
+
+People are innately disposed to look for causes of events, to form explanations and stories. That is one reason storytelling is such a persuasive medium. Stories resonate with our experiences and provide examples of new instances.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1444-1444 | Added on Tuesday, October 3, 2023 12:57:34 PM
+
+Some studies show it is wise to underpredict—that is, to say an operation will take longer than it actually will.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1467-1467 | Added on Tuesday, October 3, 2023 1:00:19 PM
+
+irascible
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1468-1469 | Added on Tuesday, October 3, 2023 1:00:41 PM
+
+It seems natural for people to blame their own misfortunes on the environment. It seems equally natural to blame other people’s misfortunes on their personalities.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1468-1470 | Added on Tuesday, October 3, 2023 1:00:57 PM
+
+It seems natural for people to blame their own misfortunes on the environment. It seems equally natural to blame other people’s misfortunes on their personalities. Just the opposite attribution, by the way, is made when things go well. When things go right, people credit their own abilities and intelligence. The onlookers do the reverse. When they see things go well for someone else, they sometimes credit
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1468-1470 | Added on Tuesday, October 3, 2023 1:01:05 PM
+
+It seems natural for people to blame their own misfortunes on the environment. It seems equally natural to blame other people’s misfortunes on their personalities. Just the opposite attribution, by the way, is made when things go well. When things go right, people credit their own abilities and intelligence. The onlookers do the reverse. When they see things go well for someone else, they sometimes credit the environment, or luck.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1500-1501 | Added on Tuesday, October 3, 2023 1:08:37 PM
+
+We need to remove the word failure from our vocabulary, replacing it instead with learning experience. To fail is to learn: we learn more from our failures than from our successes.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1507-1508 | Added on Tuesday, October 3, 2023 1:09:49 PM
+
+Designers need to fail, as do researchers. I have long held the belief—and encouraged it in my students and employees—that failures are an essential part of exploration and creativity.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1547-1548 | Added on Tuesday, October 3, 2023 1:21:22 PM
+
+But in my experience, human error usually is a result of poor design: it should be called system error. Humans err continually; it is an intrinsic part of our nature.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1636-1637 | Added on Tuesday, October 3, 2023 2:09:24 PM
+
+The seven-stage model of the action cycle can be a valuable design tool, for it provides a basic checklist of questions to ask.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1689-1690 | Added on Tuesday, October 3, 2023 2:15:15 PM
+
+One of my self-imposed rules is, “Don’t criticize unless you can do better.”
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1853-1855 | Added on Tuesday, October 3, 2023 2:58:22 PM
+
+Consider the constraints of rhyming. If you wish to rhyme one word with another, there are usually a lot of alternatives. But if you must have a word with a particular meaning to rhyme with another, the joint constraints of meaning and rhyme can cause a dramatic reduction in the number of possible candidates, sometimes reducing a large set to a single choice.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 1982-1984 | Added on Tuesday, October 3, 2023 5:24:32 PM
+
+because their names don’t correspond to the requirements. And what happens when a thief steals a person’s identity, masquerading as the other individual,
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2069-2070 | Added on Wednesday, October 4, 2023 7:43:37 AM
+
+To maximize efficiency of working memory it is best to present different information over different modalities: sight, sound, touch (haptics), hearing, spatial location, and gestures.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2124-2124 | Added on Wednesday, October 4, 2023 7:52:46 AM
+
+rote,
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2132-2134 | Added on Wednesday, October 4, 2023 7:54:13 AM
+
+Most things in the world have a sensible structure, which tremendously simplifies the memory task. When things make sense, they correspond to knowledge that we already have, so the new material can be understood, interpreted, and integrated with previously acquired material.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2144-2145 | Added on Wednesday, October 4, 2023 7:55:44 AM
+
+This mapping is easy to learn (it is an example of a natural mapping, discussed at the end of this chapter)
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2168-2169 | Added on Wednesday, October 4, 2023 8:35:47 AM
+
+Science deals in truth, practice deals with approximations.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2168-2170 | Added on Wednesday, October 4, 2023 8:36:03 AM
+
+Science deals in truth, practice deals with approximations. Practitioners don’t need truth: they need results relatively quickly that, although inaccurate, are “good enough” for the purpose to which they will be applied.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2179-2179 | Added on Wednesday, October 4, 2023 8:37:20 AM
+
+Plug in 55 for °F, and ºC = (55–30) / 2 = 12.5º.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2221-2221 | Added on Wednesday, October 4, 2023 8:42:45 AM
+
+That’s what machines are good for: providing great precision. For most purposes, estimates are good enough.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2229-2229 | Added on Wednesday, October 4, 2023 8:43:25 AM
+
+The scientific method is one of debate and conflict.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2232-2234 | Added on Wednesday, October 4, 2023 8:44:04 AM
+
+But the disagreements are illusory. That is, most scientists usually agree about the broad details: their disagreements are often about tiny details that are important for distinguishing between two competing theories, but that might have very little impact in the real world of practice and applications.
+==========
+Donald A. Norman - The Design of Everyday Things-Basic Books (2013) (Don Norman)
+- Your Highlight on Location 2242-2242 | Added on Wednesday, October 4, 2023 8:45:06 AM
+
+A folk saying captures this situation well: “Out of sight, out of mind.”
+==========
